@@ -1,0 +1,406 @@
+{
+    "result": {
+        "songs": [
+            {
+                "no": 5,
+                "rt": "600902000005324271",
+                "copyright": 1,
+                "fee": 1,
+                "privilege": {
+                    "flag": 1284,
+                    "code": 0,
+                    "dlLevel": "none",
+                    "subp": 1,
+                    "fl": 0,
+                    "fee": 1,
+                    "dl": 0,
+                    "plLevel": "none",
+                    "maxBrLevel": "lossless",
+                    "rightSource": 0,
+                    "maxbr": 999000,
+                    "id": 287719,
+                    "sp": 7,
+                    "payed": 0,
+                    "st": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeType": 1
+                        }
+                    ],
+                    "freeTrialPrivilege": {
+                        "userConsumable": false,
+                        "resConsumable": true
+                    },
+                    "downloadMaxbr": 999000,
+                    "downloadMaxBrLevel": "lossless",
+                    "cp": 1,
+                    "preSell": false,
+                    "playMaxBrLevel": "lossless",
+                    "cs": false,
+                    "toast": false,
+                    "playMaxbr": 999000,
+                    "flLevel": "none",
+                    "pl": 0
+                },
+                "mst": 9,
+                "pst": 0,
+                "pop": 100.0,
+                "dt": 271493,
+                "rtype": 0,
+                "s_id": 0,
+                "rtUrls": [],
+                "resourceState": true,
+                "id": 287719,
+                "sq": {
+                    "br": 849876,
+                    "fid": 0,
+                    "size": 28841975,
+                    "vd": -34839.0,
+                    "sr": 44100
+                },
+                "st": 0,
+                "cd": "1",
+                "publishTime": 976118400000,
+                "cf": "",
+                "originCoverType": 1,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10862803,
+                    "vd": -34845.0,
+                    "sr": 44100
+                },
+                "mv": 5293585,
+                "al": {
+                    "picUrl": "http://p2.music.126.net/1HJILQwc62AfvcXkGgVJHQ==/109951165549820772.jpg",
+                    "name": "我要的幸福",
+                    "tns": [
+                        "My Desired Happiness"
+                    ],
+                    "pic_str": "109951165549820772",
+                    "id": 28558,
+                    "pic": 109951165549820772
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4345147,
+                    "vd": -30528.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6517699,
+                    "vd": -32240.0,
+                    "sr": 44100
+                },
+                "version": 58,
+                "cp": 7002,
+                "alia": [],
+                "djId": 0,
+                "single": 0,
+                "ar": [
+                    {
+                        "name": "孙燕姿",
+                        "tns": [],
+                        "alias": [
+                            "Stefanie Sun"
+                        ],
+                        "id": 9272,
+                        "alia": [
+                            "Stefanie Sun"
+                        ]
+                    }
+                ],
+                "ftype": 0,
+                "t": 0,
+                "v": 92,
+                "name": "开始懂了",
+                "mark": 17179877376
+            },
+            {
+                "no": 1,
+                "rt": "600902000007332583",
+                "copyright": 1,
+                "fee": 1,
+                "privilege": {
+                    "flag": 1284,
+                    "code": 0,
+                    "dlLevel": "none",
+                    "subp": 1,
+                    "fl": 0,
+                    "fee": 1,
+                    "dl": 0,
+                    "plLevel": "none",
+                    "maxBrLevel": "lossless",
+                    "rightSource": 0,
+                    "maxbr": 999000,
+                    "id": 287083,
+                    "sp": 7,
+                    "payed": 0,
+                    "st": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeType": 1
+                        }
+                    ],
+                    "freeTrialPrivilege": {
+                        "userConsumable": false,
+                        "resConsumable": true
+                    },
+                    "downloadMaxbr": 999000,
+                    "downloadMaxBrLevel": "lossless",
+                    "cp": 1,
+                    "preSell": false,
+                    "playMaxBrLevel": "lossless",
+                    "cs": false,
+                    "toast": false,
+                    "playMaxbr": 999000,
+                    "flLevel": "none",
+                    "pl": 0
+                },
+                "mst": 9,
+                "pst": 0,
+                "pop": 100.0,
+                "dt": 241867,
+                "rtype": 0,
+                "s_id": 0,
+                "rtUrls": [],
+                "resourceState": true,
+                "id": 287083,
+                "sq": {
+                    "br": 823047,
+                    "fid": 0,
+                    "size": 24883512,
+                    "vd": -28011.0,
+                    "sr": 44100
+                },
+                "st": 0,
+                "cd": "01",
+                "publishTime": 1157040000000,
+                "cf": "",
+                "originCoverType": 1,
+                "h": {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 9676844,
+                    "vd": -28015.0,
+                    "sr": 44100
+                },
+                "mv": 5297570,
+                "al": {
+                    "picUrl": "http://p2.music.126.net/em2jwX9Z-pz3E9fHtojtvg==/109951166887388958.jpg",
+                    "name": "My Story,Your Song 经典全记录",
+                    "tns": [],
+                    "pic_str": "109951166887388958",
+                    "id": 28521,
+                    "pic": 109951166887388958
+                },
+                "l": {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3870764,
+                    "vd": -23711.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5806124,
+                    "vd": -25390.0,
+                    "sr": 44100
+                },
+                "version": 41,
+                "cp": 7002,
+                "alia": [],
+                "djId": 0,
+                "single": 0,
+                "ar": [
+                    {
+                        "name": "孙燕姿",
+                        "tns": [],
+                        "alias": [
+                            "Stefanie Sun"
+                        ],
+                        "id": 9272,
+                        "alia": [
+                            "Stefanie Sun"
+                        ]
+                    }
+                ],
+                "ftype": 0,
+                "t": 0,
+                "v": 75,
+                "name": "雨天",
+                "mark": 17179877376
+            },
+            {
+                "no": 5,
+                "rt": "600902000005652593",
+                "copyright": 2,
+                "fee": 1,
+                "privilege": {
+                    "flag": 1284,
+                    "code": 0,
+                    "dlLevel": "none",
+                    "subp": 1,
+                    "fl": 0,
+                    "fee": 1,
+                    "dl": 0,
+                    "plLevel": "none",
+                    "maxBrLevel": "lossless",
+                    "rightSource": 0,
+                    "maxbr": 999000,
+                    "id": 287063,
+                    "sp": 7,
+                    "payed": 0,
+                    "st": 0,
+                    "chargeInfoList": [
+                        {
+                            "rate": 128000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeType": 1
+                        }
+                    ],
+                    "freeTrialPrivilege": {
+                        "userConsumable": false,
+                        "resConsumable": true
+                    },
+                    "downloadMaxbr": 999000,
+                    "downloadMaxBrLevel": "lossless",
+                    "cp": 1,
+                    "preSell": false,
+                    "playMaxBrLevel": "lossless",
+                    "cs": false,
+                    "toast": false,
+                    "playMaxbr": 999000,
+                    "flLevel": "none",
+                    "pl": 0
+                },
+                "mst": 9,
+                "pst": 0,
+                "pop": 100.0,
+                "dt": 289066,
+                "rtype": 0,
+                "s_id": 0,
+                "rtUrls": [],
+                "resourceState": true,
+                "id": 287063,
+                "sq": {
+                    "br": 836713,
+                    "fid": 0,
+                    "size": 30233251,
+                    "vd": -40833.0,
+                    "sr": 44100
+                },
+                "st": 0,
+                "cd": "1",
+                "publishTime": 1174492800007,
+                "cf": "",
+                "originCoverType": 1,
+                "h": {
+                    "br": 320001,
+                    "fid": 0,
+                    "size": 11564974,
+                    "vd": -40869.0,
+                    "sr": 44100
+                },
+                "mv": 5484821,
+                "al": {
+                    "picUrl": "http://p2.music.126.net/hIOFATG-3vNyYHOj31Tyew==/109951169829283327.jpg",
+                    "name": "逆光",
+                    "tns": [
+                        "Against The Light"
+                    ],
+                    "pic_str": "109951169829283327",
+                    "id": 28520,
+                    "pic": 109951169829283327
+                },
+                "l": {
+                    "br": 128001,
+                    "fid": 0,
+                    "size": 4626016,
+                    "vd": -36730.0,
+                    "sr": 44100
+                },
+                "m": {
+                    "br": 192001,
+                    "fid": 0,
+                    "size": 6939002,
+                    "vd": -38326.0,
+                    "sr": 44100
+                },
+                "version": 532,
+                "cp": 7002,
+                "alia": [],
+                "djId": 0,
+                "single": 0,
+                "ar": [
+                    {
+                        "name": "孙燕姿",
+                        "tns": [],
+                        "alias": [
+                            "Stefanie Sun"
+                        ],
+                        "id": 9272,
+                        "alia": [
+                            "Stefanie Sun"
+                        ]
+                    }
+                ],
+                "ftype": 0,
+                "t": 0,
+                "v": 566,
+                "name": "我怀念的",
+                "mark": 17179877376
+            }
+        ],
+        "songCount": 297
+    },
+    "code": 200,
+    "trp": {
+        "rules": [
+            "search_tab_song::287083::searchAlg$isGlobalQuality$1",
+            "search_tab_song::287063::searchAlg$isGlobalQuality$1",
+            "search_tab_song::287719::searchAlg$isGlobalQuality$1"
+        ]
+    }
+}
